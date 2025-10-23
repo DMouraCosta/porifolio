@@ -1,15 +1,3 @@
-/*
-    INSTRUÇÕES DE USO (style.css):
-    1. Salve este código como 'style.css' no mesmo diretório que 'index.html' e 'script.js'.
-    2. Este arquivo usa a abordagem Mobile-First com um tema escuro (Dark Mode) e fundo gradiente.
-    3. Para customizar a aparência, altere as variáveis CSS no ':root'.
-    
-    BREAKPOINTS:
-    - 480px (Mobile pequeno/Landscape)
-    - 768px (Tablet)
-    - 1024px (Desktop)
-*/
-
 /* 1. VARIÁVEIS E RESET BÁSICO (TEMA ESCURO) */
 :root {
   /* Paleta de Cores (Tema Escuro com Gradiente Azul) */

@@ -45,26 +45,18 @@ document.addEventListener("DOMContentLoaded", () => {
       demoLink: "https://essentia-catalogo.vercel.app/",
       codeLink: "https://github.com/DMouraCosta/essentia_catalogo",
     },
+
     "proj-2": {
-      title: "Monitor de Qualidade de APIs",
-      image: "https://i.postimg.cc/rm7hq6NK/monitor.png",
+      title: "Dona Cesta Catálogo",
+      image: "https://i.postimg.cc/RZL9QThR/Screenshot-1.png",
       description:
-        "Plataforma de comércio eletrônico completa. Frontend desenvolvido em React (ou JS Puro no seu caso) com gerenciamento de estado minimalista e rotas otimizadas. Backend RESTful com Node.js e MongoDB, incluindo autenticação via JWT e integração com gateway de pagamento. Implementação de testes unitários e de integração.",
-      technologies: ["React + Vite", "Node.js", "Express"],
-      demoLink: "https://monitor-de-qualidade-apis.vercel.app/",
-      codeLink: "https://github.com/DMouraCosta/monitor-de-qualidade-apis",
-    },
-    "proj-3": {
-      title: "Richard Colchoaria – Proposta de Site",
-      image: "https://i.postimg.cc/P5dSXQYv/richards.png",
-      description:
-        "Este projeto foi desenvolvido por mim como uma proposta não solicitada, com o objetivo de modernizar o site institucional da Richard Colchoaria, destacando seus produtos, valores e oferecendo uma experiência mais amigável e informativa para os clientes.",
+        "O objetivo deste projeto é fornecer uma vitrine digital eficiente para a loja Dona Cesta, permitindo que os clientes naveguem pelos produtos e montem um pedido de forma intuitiva, finalizando-o diretamente com o vendedor através do WhatsApp.",
       technologies: ["Html5", "CSS3", "JavaScript"],
-      demoLink: "https://dmouracosta.github.io/colchoaria-site/",
-      codeLink:
-        "https://github.com/DMouraCosta/colchoaria-site?tab=readme-ov-file",
+      demoLink: "https://dmouracosta.github.io/catalogo-dona-cesta/",
+      codeLink: "https://github.com/DMouraCosta/catalogo-dona-cesta",
     },
-    "proj-4": {
+
+    "proj-3": {
       title: "Benchmark comparativo de IA generativa",
       image: "https://i.postimg.cc/9MD83XZW/bench.png",
       description:
@@ -73,6 +65,27 @@ document.addEventListener("DOMContentLoaded", () => {
       demoLink:
         "https://docs.google.com/spreadsheets/d/1txXmcViuaVdKwLNXC2uF7ToX66NwnWser9fOkz_aVss/edit?usp=sharing",
       codeLink: "https://github.com/DMouraCosta/benchmark-ia",
+    },
+
+    "proj-4": {
+      title: "Monitor de Qualidade de APIs",
+      image: "https://i.postimg.cc/rm7hq6NK/monitor.png",
+      description:
+        "Um projeto completo focado em qualidade de software, testes automatizados e visualização de desempenho de APIs públicas.",
+      technologies: ["React + Vite", "Node.js", "Express"],
+      demoLink: "https://dmouracosta.github.io/catalogo-dona-cesta/",
+      codeLink: "https://github.com/DMouraCosta/monitor-de-qualidade-apis",
+    },
+
+    "proj-5": {
+      title: "Richard Colchoaria – Proposta de Site",
+      image: "https://i.postimg.cc/P5dSXQYv/richards.png",
+      description:
+        "Este projeto foi desenvolvido por mim como uma proposta não solicitada, com o objetivo de modernizar o site institucional da Richard Colchoaria, destacando seus produtos, valores e oferecendo uma experiência mais amigável e informativa para os clientes.",
+      technologies: ["Html5", "CSS3", "JavaScript"],
+      demoLink: "https://dmouracosta.github.io/colchoaria-site/",
+      codeLink:
+        "https://github.com/DMouraCosta/colchoaria-site?tab=readme-ov-file",
     },
   };
 
